@@ -19,6 +19,6 @@
         </session-timeout>
     </session-config>
     <welcome-file-list>
-        <welcome-file>faces/checkbox.xhtml</welcome-file>
+        <welcome-file>faces/pre_populating_forms.xhtml</welcome-file>
     </welcome-file-list>
 </web-app>
